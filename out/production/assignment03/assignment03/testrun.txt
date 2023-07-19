@@ -1,0 +1,11 @@
+[Pay to Mortgage, balance 200000.00, Pay to Car Loan, balance 30000.00, Pay to Personal Loan, balance 15000.00, , Cancel]
+Pressed Button A3
+LOAN_PAYMENT_START: null/null/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+Pressed Button E
+LOAN_PAYMENT_START: null/null/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+[Do you wish to Cancel the session?, Press E to exit, any other keypad key to cancel, , , ]
+Pressed Button A4
+CANCEL: null/null/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+[You have logged out, , , , ]
+Pressed Button E
+LOGGED_OUT: null/null/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/

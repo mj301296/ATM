@@ -1,0 +1,33 @@
+[Pay to Mortgage, balance 200000.00, Pay to Car Loan, balance 30000.00, Pay to Personal Loan, balance 15000.00, , Cancel]
+Pressed Button A3
+LOAN_PAYMENT_START: null/null/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+[Transfer to Mortgage (200000.00) from:, Checking, balance 300.00, Savings, balance 2000.00, Money Market, balance 1300.00, Cancel]
+Pressed Button A0
+CHOOSE_FROM: null/200000.00/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+[Transfer amount: _________$, , Mortgage, balance 200000.00, Checking, balance 300.00, Cancel]
+Pressed Button A1
+CHOOSE_TRANSFER_AMOUNT: 300.00/200000.00/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+[Transfer amount: ________$2, , Mortgage, balance 200000.00, Checking, balance 300.00, Cancel]
+Pressed Button 2
+CHOOSE_TRANSFER_AMOUNT: 300.00/200000.00/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+[Transfer amount: _______$20, , Mortgage, balance 200000.00, Checking, balance 300.00, Cancel]
+Pressed Button 0
+CHOOSE_TRANSFER_AMOUNT: 300.00/200000.00/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+[Transfer amount: ______$200, , Mortgage, balance 200000.00, Checking, balance 300.00, Cancel]
+Pressed Button 0
+CHOOSE_TRANSFER_AMOUNT: 300.00/200000.00/300.00/2000.00/1300.00/200000.00/30000.00/15000.00/
+[Mortgage, balance 199800.00, payment plan:, 162 payments of 1500.00 and, final payment of approximately 282.32 on 2036-10-01, OK, Cancel]
+Pressed Button E
+XFER_END: 100.00/199800.00/100.00/2000.00/1300.00/199800.00/30000.00/15000.00/
+[Deposit, Withdraw, Transfer, More..., Cancel]
+Pressed Button A3
+INIT: 100.00/199800.00/100.00/2000.00/1300.00/199800.00/30000.00/15000.00/
+[Pay to Mortgage, balance 199800.00, Pay to Car Loan, balance 30000.00, Pay to Personal Loan, balance 15000.00, , Cancel]
+Pressed Button A3
+LOAN_PAYMENT_START: 100.00/199800.00/100.00/2000.00/1300.00/199800.00/30000.00/15000.00/
+[Do you wish to Cancel the session?, Press E to exit, any other keypad key to cancel, , , ]
+Pressed Button A4
+CANCEL: 100.00/199800.00/100.00/2000.00/1300.00/199800.00/30000.00/15000.00/
+[You have logged out, , , , ]
+Pressed Button E
+LOGGED_OUT: 100.00/199800.00/100.00/2000.00/1300.00/199800.00/30000.00/15000.00/
